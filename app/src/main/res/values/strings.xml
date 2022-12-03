@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">HDP4 Parcial2</string>
+    <string name="respuesta">respuesta</string>
+    <string name="calcular">calcular</string>
+    <string name="_30">30</string>
+    <string name="valor_2">valor 2</string>
+    <string name="_15">15</string>
+    <string name="valor_1">valor 1</string>
+    <string name="opciones_de_operaciones_aritmeticas">Opciones de operaciones aritmeticas</string>
+    <string name="operaciones_aritmeticas">Operaciones aritmeticas</string>
+</resources>
