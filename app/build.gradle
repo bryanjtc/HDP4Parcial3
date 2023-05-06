@@ -4,7 +4,7 @@ plugins {
 
 android {
     namespace 'com.example.hdp4parcial2'
-    compileSdk 32
+    compileSdk 33
 
     defaultConfig {
         applicationId "com.example.hdp4parcial2"
